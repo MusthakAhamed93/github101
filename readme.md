@@ -1,8 +1,10 @@
-#this is sample reae me
+#this is sample reaeme
+
 - this is feature b branch change- 
 -the newly addded line
- this is a simplle new line
+ this is a simplle new l
 
- added new some good lines 
 
- im athe good developer 
+def print_sum(a):
+print(a*a )
+
